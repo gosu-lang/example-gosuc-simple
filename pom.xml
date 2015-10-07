@@ -10,7 +10,7 @@
   <packaging>jar</packaging>
 
   <properties>
-    <gosu.version>1.8</gosu.version>
+    <gosu.version>1.8.1</gosu.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
